@@ -1,4 +1,4 @@
-- # 👋 Hi, I'm Akitha. Welcome to my Github**
+- # 👋 Hi, I'm Akitha. Welcome to my Github
 *Graduate Data Analyst*
 
 ## ** 🙋🏻‍♀️ About Me **
