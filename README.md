@@ -8,6 +8,8 @@ I’m a passionate data analyst with a master's degree and over 3 years of hands
 
 - ⚡ Fun fact: I Cook Authentic Indian Food ;)
 
+@ (LinkedIn)[https://www.linkedin.com/in/akitha-pinisetti/]
+
 
 ## 📚 Projects
 -------------------------------------------------------------------------------------------------------------------------------------
