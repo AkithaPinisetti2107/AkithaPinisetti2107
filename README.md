@@ -1,6 +1,8 @@
 - # 👋 Hi, I'm Akitha. Welcome to my Github
 *Graduate Data Analyst*
 
+@ [LinkedIn](https://www.linkedin.com/in/akitha-pinisetti/)
+
 ## 🙋🏻‍♀️ About Me
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -8,7 +10,6 @@ I’m a passionate data analyst with a master's degree and over 3 years of hands
 
 - ⚡ Fun fact: I Cook Authentic Indian Food ;)
 
-@ [LinkedIn](https://www.linkedin.com/in/akitha-pinisetti/)
 
 
 ## 📚 Projects
